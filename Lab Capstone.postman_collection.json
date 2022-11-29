@@ -24,7 +24,7 @@
 					"raw": "https://labmanagement-kg.azurewebsites.net/category",
 					"protocol": "https",
 					"host": [
-						"labmanagement-app",
+						"labmanagement-kg",
 						"azurewebsites",
 						"net"
 					],
@@ -44,7 +44,7 @@
 					"raw": "https://labmanagement-kg.azurewebsites.net/category",
 					"protocol": "https",
 					"host": [
-						"labmanagement-app",
+						"labmanagement-kg",
 						"azurewebsites",
 						"net"
 					],
@@ -64,7 +64,7 @@
 					"raw": "https://labmanagement-kg.azurewebsites.net/category/1",
 					"protocol": "https",
 					"host": [
-						"labmanagement-app",
+						"labmanagement-kg",
 						"azurewebsites",
 						"net"
 					],
@@ -94,7 +94,7 @@
 					"raw": "https://labmanagement-kg.azurewebsites.net/category/1",
 					"protocol": "https",
 					"host": [
-						"labmanagement-app",
+						"labmanagement-kg",
 						"azurewebsites",
 						"net"
 					],
@@ -115,7 +115,7 @@
 					"raw": "https://labmanagement-kg.azurewebsites.net/category/1",
 					"protocol": "https",
 					"host": [
-						"labmanagement-app",
+						"labmanagement-kg",
 						"azurewebsites",
 						"net"
 					],
@@ -145,7 +145,7 @@
 					"raw": "https://labmanagement-kg.azurewebsites.net/author",
 					"protocol": "https",
 					"host": [
-						"labmanagement-app",
+						"labmanagement-kg",
 						"azurewebsites",
 						"net"
 					],
@@ -165,7 +165,7 @@
 					"raw": "https://labmanagement-kg.azurewebsites.net/author",
 					"protocol": "https",
 					"host": [
-						"labmanagement-app",
+						"labmanagement-kg",
 						"azurewebsites",
 						"net"
 					],
@@ -185,7 +185,7 @@
 					"raw": "https://labmanagement-kg.azurewebsites.net/author/1",
 					"protocol": "https",
 					"host": [
-						"labmanagement-app",
+						"labmanagement-kg",
 						"azurewebsites",
 						"net"
 					],
@@ -215,7 +215,7 @@
 					"raw": "https://labmanagement-kg.azurewebsites.net/author/1",
 					"protocol": "https",
 					"host": [
-						"labmanagement-app",
+						"labmanagement-kg",
 						"azurewebsites",
 						"net"
 					],
@@ -236,7 +236,7 @@
 					"raw": "https://labmanagement-kg.azurewebsites.net/author/1",
 					"protocol": "https",
 					"host": [
-						"labmanagement-app",
+						"labmanagement-kg",
 						"azurewebsites",
 						"net"
 					],
@@ -266,7 +266,7 @@
 					"raw": "https://labmanagement-kg.azurewebsites.net/lab",
 					"protocol": "https",
 					"host": [
-						"labmanagement-app",
+						"labmanagement-kg",
 						"azurewebsites",
 						"net"
 					],
@@ -286,7 +286,7 @@
 					"raw": "https://labmanagement-kg.azurewebsites.net/lab",
 					"protocol": "https",
 					"host": [
-						"labmanagement-app",
+						"labmanagement-kg",
 						"azurewebsites",
 						"net"
 					],
@@ -306,7 +306,7 @@
 					"raw": "https://labmanagement-kg.azurewebsites.net/lab/3",
 					"protocol": "https",
 					"host": [
-						"labmanagement-app",
+						"labmanagement-kg",
 						"azurewebsites",
 						"net"
 					],
@@ -336,7 +336,7 @@
 					"raw": "https://labmanagement-kg.azurewebsites.net/lab/3",
 					"protocol": "https",
 					"host": [
-						"labmanagement-app",
+						"labmanagement-kg",
 						"azurewebsites",
 						"net"
 					],
@@ -357,7 +357,7 @@
 					"raw": "https://labmanagement-kg.azurewebsites.net/lab/3",
 					"protocol": "https",
 					"host": [
-						"labmanagement-app",
+						"labmanagement-kg",
 						"azurewebsites",
 						"net"
 					],
