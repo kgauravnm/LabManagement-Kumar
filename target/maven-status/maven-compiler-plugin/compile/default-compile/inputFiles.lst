@@ -1,0 +1,11 @@
+/Users/kumargaurav/Desktop/Azure/labmanagement_1.0/labmanagement-starter/src/main/java/com/demo/labmanagement/labmanagement/models/Category.java
+/Users/kumargaurav/Desktop/Azure/labmanagement_1.0/labmanagement-starter/src/main/java/com/demo/labmanagement/labmanagement/repositories/CategoryRepository.java
+/Users/kumargaurav/Desktop/Azure/labmanagement_1.0/labmanagement-starter/src/main/java/com/demo/labmanagement/labmanagement/controllers/LabController.java
+/Users/kumargaurav/Desktop/Azure/labmanagement_1.0/labmanagement-starter/src/main/java/com/demo/labmanagement/labmanagement/models/Lab.java
+/Users/kumargaurav/Desktop/Azure/labmanagement_1.0/labmanagement-starter/src/main/java/com/demo/labmanagement/labmanagement/controllers/CategoryController.java
+/Users/kumargaurav/Desktop/Azure/labmanagement_1.0/labmanagement-starter/src/main/java/com/demo/labmanagement/labmanagement/LabmanagementApplication.java
+/Users/kumargaurav/Desktop/Azure/labmanagement_1.0/labmanagement-starter/src/main/java/com/demo/labmanagement/labmanagement/repositories/AuthorRepository.java
+/Users/kumargaurav/Desktop/Azure/labmanagement_1.0/labmanagement-starter/src/main/java/com/demo/labmanagement/labmanagement/models/Author.java
+/Users/kumargaurav/Desktop/Azure/labmanagement_1.0/labmanagement-starter/src/main/java/com/demo/labmanagement/labmanagement/repositories/LabRepository.java
+/Users/kumargaurav/Desktop/Azure/labmanagement_1.0/labmanagement-starter/src/main/java/com/demo/labmanagement/labmanagement/controllers/AuthorController.java
+/Users/kumargaurav/Desktop/Azure/labmanagement_1.0/labmanagement-starter/src/main/java/com/demo/labmanagement/labmanagement/models/LabDto.java
